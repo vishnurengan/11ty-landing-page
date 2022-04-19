@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "A simple landing page built with 11ty and Tailwind CSS",
   "scripts": {
-    "serve": "eleventy --serve",
-    "deploy": "eleventy"
+    "serve": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "deploy": "npx eleventy"
   },
   "author": "ttntm",
   "license": "MIT",
