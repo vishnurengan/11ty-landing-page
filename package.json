@@ -4,7 +4,7 @@
   "description": "A simple landing page built with 11ty and Tailwind CSS",
   "scripts": {
     "serve": "npx eleventy --serve",
-    "build": "env NODE_ENV=production npx eleventy --pathprefix '11ty-landing-page'",
+    "build": "npx eleventy",
 
     "deploy": "npx eleventy"
   },
