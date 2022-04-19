@@ -8,7 +8,7 @@
 
     "deploy": "npx eleventy"
   },
-  "author": "ttntm",
+  "author": "ttndssdftm",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
